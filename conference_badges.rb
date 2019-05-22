@@ -19,3 +19,5 @@ def printer(attendees)
     puts attendee
   end
 end
+
+def printer()
