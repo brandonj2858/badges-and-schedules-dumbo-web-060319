@@ -4,4 +4,5 @@ end
 
 def batch_badge_creator(attendees)
   attendees = []
-  return 
+  return "Hello, my name is #{attendees}."
+end
