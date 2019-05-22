@@ -9,4 +9,4 @@ end
 end
 
 def assign_rooms(attendees)
-  attendees.each
+  attendees.each_with_index
