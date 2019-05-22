@@ -19,4 +19,4 @@ def printer(attendees)
     puts attendee
   end
 
-assign_rooms
+assign_rooms(attendees).
